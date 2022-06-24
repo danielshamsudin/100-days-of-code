@@ -13,3 +13,10 @@
 - Added withdraw UI, and logic check on the quantity of the item
 
 **Thoughts**: -
+
+### Day 2: June 24, 2022
+**Today's Progress**: 
+- Added Model and view for the withdraw UI
+- Added update and delete logic (firebase) 
+
+**Thoughts**: The code base still needs some cleaning, but it's working. Still need to do some proper testing. Client requested for the site to be hosted somewhere, might try on gh-pages tomorrow. 
