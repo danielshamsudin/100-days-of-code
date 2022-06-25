@@ -20,3 +20,10 @@
 - Added update and delete logic (firebase) 
 
 **Thoughts**: The code base still needs some cleaning, but it's working. Still need to do some proper testing. Client requested for the site to be hosted somewhere, might try on gh-pages tomorrow. 
+
+### Day 3: June 25, 2022
+**Today's Progress**: 
+- Changed navbar to responsive on mobile devices
+- Hosted page on Netlify
+
+**Thoughts**: Hosted the page on netlify, totally a new experience on using it. Had a problem on deploying straight from git, but manually deploying it when running `npm run build` works. Will experiment on deploying from git next time. 
