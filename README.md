@@ -35,3 +35,15 @@
 - Added new navbar for when user is logged in and default navbar for when user is not logged in
 
 **Thoughts**: Finally deployed the page on netlify with CI. It's a new experience on using it. Though a little bit of setup was needed. I need to change the netlify build command to `CI npm run build` for it to work. 
+
+### Day 5: June 27, 2022
+**Today's Progress**:
+- Learned Rust
+  - Basic understanding of the language
+  - Primitive Types
+    - Arrays, slices
+    - Struct
+  - Printing
+  - Formatting
+
+**Thoughts**: Rust is a decent language to pick up on, especially if you have a solid understanding of C / C++. 
